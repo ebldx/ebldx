@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello!
+
+### Working on:
+ - Homelab
+ - Java RAG
+ - Studies!
 
 <!--
 **ebldx/ebldx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
